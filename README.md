@@ -9,7 +9,7 @@ This has a website (thanks [Crunnie](https://github.com/Crunnie)), you can find 
 
 If you wish to contribute anything that isn't listed here, DM @blk#6964 or Email me @ FortniteBuildsArchive@gmail.com
 
-Credit: Anyone can post these anywhere, just make sure to give proper credit!
+Credit: @simplyblk
 
 # Network map:
 ![image](https://user-images.githubusercontent.com/59186634/226167783-ec5a77db-2969-491c-806f-ed9b02899f7a.png)
